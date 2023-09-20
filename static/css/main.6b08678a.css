@@ -1,0 +1,2 @@
+.film{display:flex;padding:50px}.film_column{align-content:flex-start;align-items:center;background-color:azure;border-radius:20px;flex-direction:column;width:387px}.film_column h3{color:#add8e6;font-size:30px}.film_title,.film_year,.genres{align-items:flex-end;display:flex;flex-direction:column;padding:25px}.container{background-color:#000}.movies{align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between}
+/*# sourceMappingURL=main.6b08678a.css.map*/
